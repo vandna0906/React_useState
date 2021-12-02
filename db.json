@@ -1,0 +1,14 @@
+{
+  "note": [
+    {
+      "title": "Learn React",
+      "description": "Event , UseRef, form",
+      "id": 1
+    },
+    {
+      "title": "Learn Css",
+      "description": "styling,padding,margin.",
+      "id": 2
+    }
+  ]
+}
